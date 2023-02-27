@@ -1,0 +1,9 @@
+# Ignore doxygen generated documentation
+html/
+
+# Ignore executable
+/prog
+
+#Ignore markdown files for the public repository
+# Will be provided with the solution
+*.md 
