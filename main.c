@@ -41,6 +41,7 @@ int main() {
     }
 
     if(hanoiSolved(&game)) {
+        hanoiPrint(&game);
         printf("You won! 🥳 Congratulations! \n");
     }
 

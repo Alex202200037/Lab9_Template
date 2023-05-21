@@ -13,8 +13,10 @@
 
 #pragma once
 
+#include "disk.h"
+
 /** Type definition. Change according to the use-case. */
-typedef int StackElem;
+typedef Disk StackElem;
 
 /**
  * @brief Prints an element.

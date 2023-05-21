@@ -14,5 +14,5 @@
 #include <stdio.h>
 
 void stackElemPrint(StackElem elem) {
-	printf("%d \n", elem);
-}
+	diskPrint(elem);
+	}
